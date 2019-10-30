@@ -1,0 +1,11 @@
+2
+Mug
+Entertainment
+100.0
+25
+
+Car
+Tourism
+1000.0
+100
+

@@ -1,0 +1,30 @@
+ Congratulations, you have just become Java TV's newest owner! Java TV is the greatest TV channel ever, and it prides itself in its 
+ 24 hour interesting ' programming'. To help you run this channel you will need to write a dynamic program that uses Data Lists to 
+ store all its TV show information.
+
+Your program will contain the following Menu Options:
+
+ Enter TV Shows/Add a TV Show:
+    This option should allow the user to enter as many shows as he wants, your program should always keep track of how many shows 
+    the user has entered.
+Modify TV Show:
+    This option should ask the user what show he would like to modify and search for it using the name of the show as the search key.
+     The user should be able to modify that show information.
+Delete TV Show:
+    Like the Modify option, the delete option searches for a show using the show's name. Once found the show should be removed by
+     shifting the array one space.
+    (Example: to delete array position 4, 5->4, 6->5,7->6...and so on)
+Sort TV Shows:
+    The sort function asks the user what sort key he would like to use (name, day, time) and sorts the list using that key.
+    Note: The sort by day will sort alphabetically, that is fine, see the Bonus for a proper day sort.
+Show all TV Shows:
+    This option outputs all the shows and also gives totals for the number of shows per day.
+Exit:
+    This will quit the program.
+
+BONUS: add the following Menu Options:
+
+Save TV Shows:
+    This should save your arrays to a file named "TV.txt", Don't forget to add a header that says how many TV shows are in the file.
+Load TV Shows:
+    This should load the TV Shows from "TV.txt", you will need to read the header first to see how many Shows are in the file. 

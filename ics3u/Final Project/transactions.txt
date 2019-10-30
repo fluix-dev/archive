@@ -1,0 +1,76 @@
+15
+Inheritance
+
+3500.0
+23/6/2018
+
+Expensive Goal
+Entertainment
+-1600.0
+15/8/2018
+
+Water Bill
+Utilities
+-50.0
+1/10/2018
+
+Watch Goal
+Entertainment
+-25.0
+1/10/2018
+
+Cell Phone
+Entertainment
+-123.53
+15/10/2018
+
+Water Bill
+Utilities
+-50.0
+1/11/2018
+
+McDonalds Paycheck
+
+320.34
+10/11/2018
+
+Water Bill
+Utilities
+-50.0
+1/12/2018
+
+Internet Bill
+Utilities
+-125.0
+3/12/2018
+
+Samsung TV Goal Completed
+Entertainment
+-1999.99
+1/1/2019
+
+Chocolate
+Food
+-24.15
+3/1/2019
+
+Scholarship
+
+1000.0
+1/2/2019
+
+McDonalds Paycheck
+
+300.34
+10/2/2019
+
+Vacation to Mexico
+Tourism
+-250.0
+28/2/2019
+
+Apartment Rent
+Rent
+-55.1
+1/3/2019
+

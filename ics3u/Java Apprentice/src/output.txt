@@ -1,0 +1,52 @@
+[INFO] Please enter the number of departments that you have: 4
+
+[INFO - 1] Please enter the name of the department: Cool Casino
+[INFO - 1] Please enter the number of employees in the department: 543
+[INFO - 1] Please enter the cost per employee in the department: 0.75
+[INFO - 1] Please enter the amount of sales for the department: 1000.432
+
+[INFO - 2] Please enter the name of the department: Trumpola Burgers
+[INFO - 2] Please enter the number of employees in the department: 43
+[INFO - 2] Please enter the cost per employee in the department: 19.725
+[INFO - 2] Please enter the amount of sales for the department: 50
+
+[INFO - 3] Please enter the name of the department: Donoldio Clothing for Cats
+[INFO - 3] Please enter the number of employees in the department: 4.0001
+[INFO - 3] Please enter the cost per employee in the department: 5.233
+[INFO - 3] Please enter the amount of sales for the department: 100
+
+[INFO - 4] Please enter the name of the department: Trumpola Leaning Tower
+[INFO - 4] Please enter the number of employees in the department: 1003
+[INFO - 4] Please enter the cost per employee in the department: 1.2123
+[INFO - 4] Please enter the amount of sales for the department: 704.67
+
+[Cool Casino]
+- Employees: 543
+- Cost Per Employee: $0.75
+- Sales: $1,000.43
+- Cost to Operate: $407.25
+- Profit: $593.18
+
+[Trumpola Burgers]
+- Employees: 43
+- Cost Per Employee: $19.73
+- Sales: $50.00
+- Cost to Operate: $848.18
+- Profit: -$798.18
+
+[Donoldio Clothing for Cats]
+- Employees: 4.0001
+- Cost Per Employee: $5.23
+- Sales: $100.00
+- Cost to Operate: $20.93
+- Profit: $79.07
+
+[Trumpola Leaning Tower]
+- Employees: 1,003
+- Cost Per Employee: $1.21
+- Sales: $704.67
+- Cost to Operate: $1,215.94
+- Profit: -$511.27
+
+[TOTAL]
+You went bankrupt! You have -$637.19

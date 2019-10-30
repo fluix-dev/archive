@@ -1,0 +1,24 @@
+main				:	main menu
+view				:	output screens
+viewCurrentMonth		:	output current month statistics
+viewPastMonth			:	output past month statistics
+viewTotals			:	output total statistics
+viewPlanningGoals		:	output goal completion and plan progress
+loadAll				:	load all arrays from file
+saveAll				:	save all arrays to file
+addCategory			:	add a category
+modifyCategory			:	modify a category
+removeCategory			:	remove a category
+viewCategory			:	view a category
+addIncome			:	add an income transaction
+addExpense			:	add an expense transaction
+addGoal				:	add a goal
+addPlan				:	add a plan
+modifyGoal			:	modify a goal
+modifyPlan			:	modify a plan
+removeGoal			:	remove a goal
+removePlan			:	remove a plan
+printMenu			:	print different menus
+sortTransactions		:	sort transactions by date
+getChoice			:	get the users choice
+padText				:	return a string of fixed length

@@ -1,0 +1,44 @@
+[+] Dice rolling event begins! Rolling until sum is 7 or 11:
+
+[+] Tossing dice...
+[-] First dice: 5
+[-] Second dice: 3
+[-] Sum: 8
+
+[+] Tossing dice...
+[-] First dice: 4
+[-] Second dice: 2
+[-] Sum: 6
+
+[+] Tossing dice...
+[-] First dice: 3
+[-] Second dice: 4
+[-] Sum: 7
+
+[=] Dice rolling event concludes! Sum was 7.
+*******************************************
+
+[+] String functions event begins! Please enter two strings:
+[-] First String: Apple
+[-] Second String: Orange
+
+[=] Strings in alphabetical order:
+  -  Apple
+  -  Orange
+[=] Characters in first string:  5
+[=] Characters in second string: 6
+[=] First string in all CAPITALS:   APPLE
+[=] Second string in all lowercase: orange
+
+[=] String functions event concludes.
+*******************************************
+
+[+] The bonus event begins!
+
+[-] Please enter a sentence: This is a sentence with seven words.
+
+[=] Number of characters in the sentence: 36
+[=] Number of words in sentence: 7
+[=] Average number of characters per word is: 5.142857074737549
+
+[=] Bonus event concludes!

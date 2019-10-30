@@ -1,0 +1,6 @@
+5
+Rent
+Entertainment
+Food
+Tourism
+Utilities
